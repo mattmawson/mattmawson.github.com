@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<Slides>
+<slideNode jpegURL="7c8259aa_resized.jpg" thumbURL="7c8259aa_resized_t.jpg" jpegWidth="800" jpegHeight="533"></slideNode>
+<slideNode jpegURL="d0aee18b_resized.jpg" thumbURL="d0aee18b_resized_t.jpg" jpegWidth="800" jpegHeight="533"></slideNode>
+<slideNode jpegURL="7b8a66f4_resized.jpg" thumbURL="7b8a66f4_resized_t.jpg" jpegWidth="800" jpegHeight="533"></slideNode>
+<slideNode jpegURL="a57aa164_resized.jpg" thumbURL="a57aa164_resized_t.jpg" jpegWidth="800" jpegHeight="533"></slideNode>
+<slideNode jpegURL="e3aaee31_resized.jpg" thumbURL="e3aaee31_resized_t.jpg" jpegWidth="800" jpegHeight="533"></slideNode>
+<slideNode jpegURL="4fc0348a_resized.jpg" thumbURL="4fc0348a_resized_t.jpg" jpegWidth="800" jpegHeight="533"></slideNode>
+<slideNode jpegURL="1ad9aebe_resized.jpg" thumbURL="1ad9aebe_resized_t.jpg" jpegWidth="800" jpegHeight="533"></slideNode>
+<slideNode jpegURL="9e1ac826_resized.jpg" thumbURL="9e1ac826_resized_t.jpg" jpegWidth="800" jpegHeight="533"></slideNode>
+<slideNode jpegURL="9505e6be_resized.jpg" thumbURL="9505e6be_resized_t.jpg" jpegWidth="800" jpegHeight="533"></slideNode>
+<slideNode jpegURL="26b9b401_resized.jpg" thumbURL="26b9b401_resized_t.jpg" jpegWidth="800" jpegHeight="533"></slideNode>
+<slideNode jpegURL="425ad418_resized.jpg" thumbURL="425ad418_resized_t.jpg" jpegWidth="800" jpegHeight="533"></slideNode>
+</Slides>
+<setup>
+	<infoNode 
+		sliderposxshift="false"
+		of=" of "
+		sec="sec"
+		PhotoWMax="800"
+		PhotoHMax="600"
+		captionx="400" 
+		captiony="505" 
+		mymusictrack = ""  
+		fontcolor="0x000000"
+		sliderposx = "375"
+		sliderposy = "550"
+		slideimagein="false"
+		sliderdoc = "false"
+		slidervis="true" 
+		verticalthumbs ="false" 
+		slideinimagenudge="false" 
+		thumbxLoc= "0"  
+		photoYLoc="-1" 
+		photoXLoc="0" 
+		thumbyLoc= "570" 
+		popslide="true" 
+		thumbsvis= "false" 
+		thumbsize= "50" 
+		thumbgap= "5"  
+		thumbygap= "0" 
+		thumbblocklength="1" 
+		blur="20"  
+		AutoHideControls = "true"
+		reflection="false" 
+		Autoplay="true"
+		Sliderdefault="2"
+		>
+	</infoNode>
+</setup>
+ 
